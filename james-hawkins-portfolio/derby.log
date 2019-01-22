@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Mon Jan 21 15:38:12 GMT 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-710f-df3c-000009c82e08 
-on database directory memory:E:\Users\James\eclipse\workspaces\blog\james-hawkins-portfolio\testdb with class loader sun.misc.Launcher$AppClassLoader@232204a1 
+Tue Jan 22 14:00:35 GMT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-75dc-dc19-00000feb0d70 
+on database directory memory:E:\Users\James\eclipse\git\portfolio\james-hawkins-portfolio\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
 Loaded from file:/C:/Users/James/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_161-b12
-user.dir=E:\Users\James\eclipse\workspaces\blog\james-hawkins-portfolio
+java.runtime.version=1.8.0_181-b13
+user.dir=E:\Users\James\eclipse\git\portfolio\james-hawkins-portfolio
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
