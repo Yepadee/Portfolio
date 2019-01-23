@@ -9,7 +9,5 @@ public class JamesHawkinsPortfolioApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JamesHawkinsPortfolioApplication.class, args);
 	}
-
-
 }
 

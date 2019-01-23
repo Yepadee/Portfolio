@@ -66,8 +66,8 @@ body {
 	margin-top: -80px;
     padding-top: 160px;
     padding-bottom: 80px;
+    align: center;
 }
-
 
 .container h1 {
 	text-align: center;
@@ -182,3 +182,9 @@ body {
 .yt { background-color: #FF6B35; }
 .fb { background-color: #004E98; }
 .em { background-color: #63C132; }
+
+
+footer {
+	text-align: center;
+	background-color: #F2F1F1;
+}
