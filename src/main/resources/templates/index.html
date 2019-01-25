@@ -65,16 +65,16 @@
 			<thead>
 				<tr>
 					<th>Name</th>
-					<th>Description</th>
-					<th>Date</th>
+					<th class="d-none d-sm-table-cell">Description</th>
+					<th class="d-none d-sm-table-cell">Date</th>
 					<th></th>
 				</tr>
 			</thead>
 			<tbody>
 				<tr th:each="repo:${repos}">
 					<td><span th:text="${repo.name}"></span></td>
-					<td><span th:text="${repo.description}"></span></td>
-					<td><span th:text="${repo.createdAt}"></span></td>
+					<td class="d-none d-sm-table-cell"><span class="hidden-xs" th:text="${repo.description}"></span></td>
+					<td class="d-none d-sm-table-cell"><span class="hidden-xs" th:text="${repo.createdAt}"></span></td>
 					<td><a th:href="${repo.htmlUrl}" class="btn btn-info btn-xs">View Source</a></td>
 				</tr>
 			</tbody>
